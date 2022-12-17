@@ -1,7 +1,7 @@
 
 Thse are screenshots for the projects
 
-[2022-12-17 (2)](https://user-images.githubusercontent.com/97456579/208245593-03ecb5ac-6e5e-4167-83bf-fc81d4e7df83.png)
+![2022-12-17 (2)](https://user-images.githubusercontent.com/97456579/208245593-03ecb5ac-6e5e-4167-83bf-fc81d4e7df83.png)
 
 
 
@@ -28,6 +28,7 @@ Thse are screenshots for the projects
 
 
 
+![2022-12-17 (7)](https://user-images.githubusercontent.com/97456579/208245676-d7d7a38f-8514-4bfb-9d20-7ed52a645550.png)
 
 
 
