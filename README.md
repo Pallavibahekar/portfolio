@@ -1,4 +1,36 @@
-z# Getting Started with Create React App
+
+Thse are screenshots for the projects
+
+[2022-12-17 (2)](https://user-images.githubusercontent.com/97456579/208245593-03ecb5ac-6e5e-4167-83bf-fc81d4e7df83.png)
+
+
+
+![2022-12-17 (3)](https://user-images.githubusercontent.com/97456579/208245611-2b0ca1ce-e55d-4249-bd27-33146c4e7d29.png)
+
+
+
+
+
+
+![2022-12-17 (4)](https://user-images.githubusercontent.com/97456579/208245614-0bea46bf-e531-4497-8446-90f0301d63ac.png)
+
+
+
+
+
+
+
+
+![2022-12-17 (5)](https://user-images.githubusercontent.com/97456579/208245618-3e94cfc2-5ef9-4790-a9ff-f4a2c0208e93.png)
+
+![2022-12-17 (8)](https://user-images.githubusercontent.com/97456579/208245624-9cfae9a4-55bf-4801-9571-0262c1929d6b.png)
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
