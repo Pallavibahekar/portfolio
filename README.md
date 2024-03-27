@@ -1,5 +1,5 @@
 
-Thse are screenshots for the projects
+These are screenshots for the projects
 
 ![2022-12-17 (2)](https://user-images.githubusercontent.com/97456579/208245593-03ecb5ac-6e5e-4167-83bf-fc81d4e7df83.png)
 
